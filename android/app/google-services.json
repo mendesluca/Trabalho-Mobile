@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965379577247",
+    "project_id": "jogodobicho-cada8",
+    "storage_bucket": "jogodobicho-cada8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965379577247:android:bb1aa947f37cb01c8419aa",
+        "android_client_info": {
+          "package_name": "com.example.jogo_do_bicho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU9CpnoqZG4NsRYE0kKLq5mk0xM7EwyoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
